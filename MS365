@@ -1,1 +1,60 @@
+# Microsoft 365 Unified Domains URLs
+*.cloud.microsoft
+*.static.microsoft
+*.usercontent.microsoft
 
+# Exchange Online
+outlook.cloud.microsoft
+outlook.office.com
+outlook.office365.com
+smtp.office365.com
+*.outlook.com
+# autodiscover.<tenant>.onmicrosoft.com
+*.protection.outlook.com
+*.mail.protection.outlook.com
+*.mx.microsoft
+
+# SharePoint Online and OneDrive for Business
+*.sharepoint.com
+ssw.live.com
+storage.live.com
+*.search.production.apac.trafficmanager.net
+*.search.production.emea.trafficmanager.net
+*.search.production.us.trafficmanager.net
+*.wns.windows.com
+admin.onedrive.com
+officeclient.microsoft.com
+g.live.com
+oneclient.sfx.ms
+*.sharepointonline.com
+spoprod-a.akamaihd.net
+*.svc.ms
+
+# Microsoft Teams
+*.lync.com
+*.teams.cloud.microsoft
+*.teams.microsoft.com
+teams.cloud.microsoft
+teams.microsoft.com
+*.keydelivery.mediaservices.windows.net
+*.streaming.mediaservices.windows.net
+aka.ms
+*.users.storage.live.com
+adl.windows.com
+join.secure.skypeassets.com
+mlccdnprod.azureedge.net
+*.skype.com
+compass-ssl.microsoft.com
+
+# Microsoft 365 Common and Office Online
+*.officeapps.live.com
+*.online.office.com
+office.live.com
+*.office.net
+*.onenote.com
+*.microsoft.com
+*cdn.onenote.net
+ajax.aspnetcdn.com
+apis.live.net
+officeapps.live.com
+www.onedrive.com
