@@ -2,7 +2,8 @@
 *.cloud.microsoft
 *.static.microsoft
 *.usercontent.microsoft
-login.microsoftonline.com
+microsoftonline.com
+microsoftazuread-sso.com
 
 # Exchange Online
 outlook.cloud.microsoft
