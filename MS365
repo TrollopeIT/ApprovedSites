@@ -4,6 +4,8 @@
 *.usercontent.microsoft
 microsoftonline.com
 microsoftazuread-sso.com
+office.com
+live.net
 
 # Exchange Online
 outlook.cloud.microsoft
