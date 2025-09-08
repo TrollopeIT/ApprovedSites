@@ -67,7 +67,5 @@ ajax.aspnetcdn.com
 apis.live.net
 officeapps.live.com
 www.onedrive.com
-autodiscover.outlook.com
-login.microsoftonline.com
-outlook.office365.com
+*.msappproxy.net
 
