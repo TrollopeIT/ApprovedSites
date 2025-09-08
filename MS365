@@ -10,7 +10,7 @@ autodiscover.outlook.com
 hybrid.agent.service.micorosft.com
 live.net
 enterpriseregistration.windows.net
-
+*.microsoftonline.com
 # Exchange Online
 outlook.cloud.microsoft
 outlook.office.com
@@ -21,7 +21,7 @@ smtp.office365.com
 *.protection.outlook.com
 mail.protection.outlook.com
 *.mx.microsoft
-
+*.windows.net
 # SharePoint Online and OneDrive for Business
 *.sharepoint.com
 ssw.live.com
@@ -37,7 +37,7 @@ oneclient.sfx.ms
 *.sharepointonline.com
 spoprod-a.akamaihd.net
 *.svc.ms
-
+*.msappproxy.net
 # Microsoft Teams
 *.lync.com
 *.teams.cloud.microsoft
@@ -47,13 +47,14 @@ teams.microsoft.com
 *.keydelivery.mediaservices.windows.net
 *.streaming.mediaservices.windows.net
 aka.ms
+*.office365.com
 *.users.storage.live.com
 adl.windows.com
 join.secure.skypeassets.com
 mlccdnprod.azureedge.net
 *.skype.com
 compass-ssl.microsoft.com
-
+*.outlook.com
 # Microsoft 365 Common and Office Online
 *.officeapps.live.com
 *.online.office.com
@@ -66,3 +67,8 @@ ajax.aspnetcdn.com
 apis.live.net
 officeapps.live.com
 www.onedrive.com
+https://autodiscover.outlook.com/
+https://mssts.windows.net/
+https://login.microsoftonline.com/
+https://outlook.office365.com/
+
