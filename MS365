@@ -67,8 +67,7 @@ ajax.aspnetcdn.com
 apis.live.net
 officeapps.live.com
 www.onedrive.com
-https://autodiscover.outlook.com/
-https://mssts.windows.net/
-https://login.microsoftonline.com/
-https://outlook.office365.com/
+autodiscover.outlook.com
+login.microsoftonline.com
+outlook.office365.com
 
