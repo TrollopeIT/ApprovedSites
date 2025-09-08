@@ -2,6 +2,7 @@
 *.cloud.microsoft
 *.static.microsoft
 *.usercontent.microsoft
+mssts.windows.net
 microsoftonline.com
 microsoftazuread-sso.com
 office.com
